@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.guess-me {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin-bottom: 1em;
+}
